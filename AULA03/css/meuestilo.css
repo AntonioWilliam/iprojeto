@@ -1,0 +1,11 @@
+img {
+   
+    /* width: 320px ; 
+    height: 1080px ;*/
+   
+    max-width: 100% ; /* mexe sem alterar a proporção */
+    border-radius: 10% ; /* arredonda as bordas da imagem */
+    border-color: 20px inset rgb(0, 255, 76);
+    opacity: 0.5 ;
+    
+}
